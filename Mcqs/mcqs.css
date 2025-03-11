@@ -1,0 +1,10 @@
+.submit1 {
+    text-align: center;
+}
+
+#submit {
+    color: beige;
+    background-color: navy;
+    height: 100px;
+    width: 200px;
+}
